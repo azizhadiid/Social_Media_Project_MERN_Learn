@@ -1,1 +1,4 @@
-// const getUser
+export const getUser = (req,res)=> {
+    // TODO
+    
+}
