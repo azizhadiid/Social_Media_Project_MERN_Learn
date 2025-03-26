@@ -65,3 +65,5 @@ export const logout = (req, res) => {
     .status(200)
     .json("User has been logged out.");
 }
+
+// test axios error
